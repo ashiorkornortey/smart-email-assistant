@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+data/emails.sqlite
+
+# Env
+.env
+
+# Streamlit cache
+.cache/
